@@ -17,4 +17,5 @@
 
   ?>
   <button type="button" class="btn btn-success"> LET'S BEGIN!</button>
+  <button type="button" class="btn btn-dark"> LET'S BEGIN!</button>
   <?php require 'include/footer.php'; ?>
