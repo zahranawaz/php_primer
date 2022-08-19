@@ -18,4 +18,5 @@
   ?>
   <button type="button" class="btn btn-success"> LET'S BEGIN!</button>
   <button type="button" class="btn btn-dark"> LET'S BEGIN!</button>
+  <a href="https://heroku.com" target="_blank" class="btn btn-danger"> Heroku</a>
   <?php require 'include/footer.php'; ?>
